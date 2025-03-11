@@ -1,0 +1,32 @@
+
+************************************************************************
+
+                  Assura Summary Report
+@(#)$CDS: aveng_64 version av4.1:Production:dfII6.1.7-64b:IC6.1.7-64b.78 12/24/2015 12:01 (sjflg007) $
+sub-version 4.1_USR5, integ signature 2015-12-24-1122
+
+run on vdi-l-cos-008 from /usr/local/cadence6/ASSURA415-001-617/tools.lnx86/assura/bin/64bit/aveng on Tue Mar 11 23:30:33 2025
+
+Echoing run specific file...
+    ;----------------------------------------------------------------------------
+    ; @(#)$CDS: assura version av4.1:Production:dfII6.1.7-64b:IC6.1.7-64b.78 12/24/15 11:44 (sjflg007) $
+    ; sub-version 4.1_USR5
+    ;----------------------------------------------------------------------------
+    
+    
+    ;----------------------------------------------------------------------------
+    ; avParameter Section
+    ; Created by the Assura UI
+    ;----------------------------------------------------------------------------
+    
+    avParameters(
+      ?inputLayout ( "df2" "ring_oscillator" )
+      ?cellName "inverter"
+      ?viewName "layout"
+      ?technology "Assura_DRC_FEOL"
+      ?techLib "./assura_tech.lib"
+      ?techRuleSet "DRC_2.5p1"
+      ?set ("Skip_NPLUS_checks" "Skip_Poly_Density_Check" "Skip_Soft-Connect_Checks" "skip_DIFF_density_check")
+      ?avrpt t
+    )
+
