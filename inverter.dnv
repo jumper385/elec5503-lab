@@ -1,0 +1,8 @@
+vuiLVSdebugRunInfo = list( nil
+   'layoutLibrary "ring_oscillator"
+   'layoutCell "inverter"
+   'layoutView "layout"
+   'schematicLibrary "ring_oscillator"
+   'schematicCell "inverter"
+   'schematicView "schematic"
+)
