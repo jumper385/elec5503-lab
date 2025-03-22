@@ -11,7 +11,7 @@
 
 avParameters(
   ?inputLayout ( "df2" "ring_oscillator" )
-  ?cellName "inverter"
+  ?cellName "nand"
   ?viewName "layout"
   ?technology "Assura_DRC_FEOL"
   ?techLib "./assura_tech.lib"
