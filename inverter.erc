@@ -2,6 +2,32 @@
 ***** Begin Label Report *****
 
  Label in cell 'inverter layout ring_oscillator':
+  info: Assign pin label "GND" at (4.015, 1.710) to layer `ME1'.
+  info: Assign pin label "A" at (2.500, 3.435) to layer `ME1'.
+  info: Assign pin label "OUT" at (5.100, 3.440) to layer `ME1'.
+  info: Assign pin label "VDD" at (3.825, 6.330) to layer `ME1'.
+
+***** End of Label Report *****
+
+
+***** Begin Label Report *****
+
+ Label in cell 'inverter layout ring_oscillator':
+  info: Assign pin label "GND" at (4.015, 1.710) to layer `ME1'.
+  info: Assign pin label "A" at (2.500, 3.435) to layer `ME1'.
+  info: Assign pin label "OUT" at (5.100, 3.440) to layer `ME1'.
+  info: Assign pin label "VDD" at (3.825, 6.330) to layer `ME1'.
+
+***** End of Label Report *****
+
+
+***** Begin Label Report *****
+
+ Label in cell 'inverter layout ring_oscillator':
+  info: Assign pin label "GND" at (4.015, 1.710) to layer `ME1'.
+  info: Assign pin label "A" at (2.500, 3.435) to layer `ME1'.
+  info: Assign pin label "OUT" at (5.100, 3.440) to layer `ME1'.
+  info: Assign pin label "VDD" at (3.825, 6.330) to layer `ME1'.
 
 ***** End of Label Report *****
 
