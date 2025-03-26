@@ -1,0 +1,72 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'nand layout ring_oscillator':
+  info: Assign pin label "GND" at (-1.570, -2.585) to layer `ME1'.
+  info: Assign pin label "A" at (-2.625, -0.380) to layer `ME1'.
+  info: Assign pin label "B" at (-2.625, 0.285) to layer `ME1'.
+  info: Assign pin label "OUT" at (0.240, -0.305) to layer `ME1'.
+  info: Assign pin label "VDD" at (-1.570, 2.575) to layer `ME1'.
+
+ Label in cell 'inverter layout ring_oscillator':
+  info: Assign pin label "GND" at (1.175, 0.515) to layer `ME1'.
+  info: Assign pin label "A" at (0.035, 2.405) to layer `ME1'.
+  info: Assign pin label "OUT" at (2.325, 2.410) to layer `ME1'.
+  info: Assign pin label "VDD" at (1.165, 5.355) to layer `ME1'.
+
+ Label in cell 'clkgen layout ring_oscillator':
+  info: Assign pin label "TRIG" at (-9.315, -2.980) to layer `ME1'.
+  info: Assign pin label "GND" at (-4.910, -5.460) to layer `ME1'.
+  info: Assign pin label "VDD" at (-2.040, -0.615) to layer `ME1'.
+  info: Assign pin label "CLK" at (5.130, -3.550) to layer `ME1'.
+
+***** End of Label Report *****
+
+
+***** Begin Label Report *****
+
+ Label in cell 'nand layout ring_oscillator':
+  info: Assign pin label "GND" at (-1.570, -2.585) to layer `ME1'.
+  info: Assign pin label "A" at (-2.625, -0.380) to layer `ME1'.
+  info: Assign pin label "B" at (-2.625, 0.285) to layer `ME1'.
+  info: Assign pin label "OUT" at (0.240, -0.305) to layer `ME1'.
+  info: Assign pin label "VDD" at (-1.570, 2.575) to layer `ME1'.
+
+ Label in cell 'inverter layout ring_oscillator':
+  info: Assign pin label "GND" at (1.175, 0.515) to layer `ME1'.
+  info: Assign pin label "A" at (0.035, 2.405) to layer `ME1'.
+  info: Assign pin label "OUT" at (2.325, 2.410) to layer `ME1'.
+  info: Assign pin label "VDD" at (1.165, 5.355) to layer `ME1'.
+
+ Label in cell 'clkgen layout ring_oscillator':
+  info: Assign pin label "TRIG" at (-9.315, -2.980) to layer `ME1'.
+  info: Assign pin label "GND" at (-4.910, -5.460) to layer `ME1'.
+  info: Assign pin label "VDD" at (-2.040, -0.615) to layer `ME1'.
+  info: Assign pin label "CLK" at (5.130, -3.550) to layer `ME1'.
+
+***** End of Label Report *****
+
+
+***** Begin Label Report *****
+
+ Label in cell 'nand layout ring_oscillator':
+  info: Assign pin label "GND" at (-1.570, -2.585) to layer `ME1'.
+  info: Assign pin label "A" at (-2.625, -0.380) to layer `ME1'.
+  info: Assign pin label "B" at (-2.625, 0.285) to layer `ME1'.
+  info: Assign pin label "OUT" at (0.240, -0.305) to layer `ME1'.
+  info: Assign pin label "VDD" at (-1.570, 2.575) to layer `ME1'.
+
+ Label in cell 'inverter layout ring_oscillator':
+  info: Assign pin label "GND" at (1.175, 0.515) to layer `ME1'.
+  info: Assign pin label "A" at (0.035, 2.405) to layer `ME1'.
+  info: Assign pin label "OUT" at (2.325, 2.410) to layer `ME1'.
+  info: Assign pin label "VDD" at (1.165, 5.355) to layer `ME1'.
+
+ Label in cell 'clkgen layout ring_oscillator':
+  info: Assign pin label "TRIG" at (-9.315, -2.980) to layer `ME1'.
+  info: Assign pin label "GND" at (-4.910, -5.460) to layer `ME1'.
+  info: Assign pin label "VDD" at (-2.040, -0.615) to layer `ME1'.
+  info: Assign pin label "CLK" at (5.130, -3.550) to layer `ME1'.
+
+***** End of Label Report *****
+

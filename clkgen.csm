@@ -1,0 +1,7 @@
+Schematic                         | Layout                         | Status
+-------------------------------------------------------------------------------
+inverter schematic ring_oscillator| inverter layout ring_oscillator| matched
+nand schematic ring_oscillator    | nand layout ring_oscillator    | matched
+clkgen schematic ring_oscillator  | clkgen layout ring_oscillator  | matched
+
+Schematic and Layout Match

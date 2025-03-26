@@ -2060,7 +2060,7 @@ mergeParallel(DIO merge parallelDIO)
 
 avCompareRules(
 schematic(
-netlist( dfII "/home/22703907/Downloads/elec5503-lab/nand.vlr" )
+netlist( dfII "/home/22703907/Downloads/elec5503-lab-main/nand.vlr" )
 )
 )
 

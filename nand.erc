@@ -2,11 +2,11 @@
 ***** Begin Label Report *****
 
  Label in cell 'nand layout ring_oscillator':
-  info: Assign pin label "GND" at (-1.035, -4.200) to layer `ME1'.
-  info: Assign pin label "B" at (-2.265, -0.895) to layer `ME1'.
-  info: Assign pin label "A" at (-2.260, -0.210) to layer `ME1'.
-  info: Assign pin label "OUT" at (0.880, -1.070) to layer `ME1'.
-  info: Assign pin label "VDD" at (-0.750, 3.750) to layer `ME1'.
+  info: Assign pin label "GND" at (-1.570, -2.585) to layer `ME1'.
+  info: Assign pin label "A" at (-2.625, -0.380) to layer `ME1'.
+  info: Assign pin label "B" at (-2.625, 0.285) to layer `ME1'.
+  info: Assign pin label "OUT" at (0.240, -0.305) to layer `ME1'.
+  info: Assign pin label "VDD" at (-1.570, 2.575) to layer `ME1'.
 
 ***** End of Label Report *****
 
@@ -14,11 +14,11 @@
 ***** Begin Label Report *****
 
  Label in cell 'nand layout ring_oscillator':
-  info: Assign pin label "GND" at (-1.035, -4.200) to layer `ME1'.
-  info: Assign pin label "B" at (-2.265, -0.895) to layer `ME1'.
-  info: Assign pin label "A" at (-2.260, -0.210) to layer `ME1'.
-  info: Assign pin label "OUT" at (0.880, -1.070) to layer `ME1'.
-  info: Assign pin label "VDD" at (-0.750, 3.750) to layer `ME1'.
+  info: Assign pin label "GND" at (-1.570, -2.585) to layer `ME1'.
+  info: Assign pin label "A" at (-2.625, -0.380) to layer `ME1'.
+  info: Assign pin label "B" at (-2.625, 0.285) to layer `ME1'.
+  info: Assign pin label "OUT" at (0.240, -0.305) to layer `ME1'.
+  info: Assign pin label "VDD" at (-1.570, 2.575) to layer `ME1'.
 
 ***** End of Label Report *****
 
@@ -26,11 +26,11 @@
 ***** Begin Label Report *****
 
  Label in cell 'nand layout ring_oscillator':
-  info: Assign pin label "GND" at (-1.035, -4.200) to layer `ME1'.
-  info: Assign pin label "B" at (-2.265, -0.895) to layer `ME1'.
-  info: Assign pin label "A" at (-2.260, -0.210) to layer `ME1'.
-  info: Assign pin label "OUT" at (0.880, -1.070) to layer `ME1'.
-  info: Assign pin label "VDD" at (-0.750, 3.750) to layer `ME1'.
+  info: Assign pin label "GND" at (-1.570, -2.585) to layer `ME1'.
+  info: Assign pin label "A" at (-2.625, -0.380) to layer `ME1'.
+  info: Assign pin label "B" at (-2.625, 0.285) to layer `ME1'.
+  info: Assign pin label "OUT" at (0.240, -0.305) to layer `ME1'.
+  info: Assign pin label "VDD" at (-1.570, 2.575) to layer `ME1'.
 
 ***** End of Label Report *****
 

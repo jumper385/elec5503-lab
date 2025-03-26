@@ -1,0 +1,6 @@
+"p_12_hsl130e(MOS)" "P_12_HSL130E(MOS)"
+"n_12_hsl130e(MOS)" "N_12_HSL130E(MOS)"
+"nand layout ring_oscillator" "nand schematic ring_oscillator" "p_12_hsl130e(MOS)" "n_12_hsl130e(MOS)"
+"inverter layout ring_oscillator" "inverter schematic ring_oscillator" "p_12_hsl130e(MOS)" "n_12_hsl130e(MOS)"
+"clkgen layout ring_oscillator" "clkgen schematic ring_oscillator"
+Devices filtered from layout
