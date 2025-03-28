@@ -1,0 +1,6 @@
+; Assura generated file -- DO NOT EDIT --
+; Do NOT rely on the content of this file, it may change.
+;
+2 unmatched connect pin
+1 1 ((S "PM0" "P_12_HSL130E")(L "avD2_1" "p_12_hsl130e")(("B" "VDD" "avC6")))
+1 1 ((S "NM0" "N_12_HSL130E")(L "avD1_1" "n_12_hsl130e")(("B" "GND" "avC5")))

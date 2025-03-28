@@ -1,0 +1,66 @@
+================================================================================
+Rule No. 5 : PSUB_StampErrorFloat
+
+Real Error Count : 1; Flat Error Count : 1
+================================================================================
+
+--------------------------------------------------------------------------------
+Cell Name : inverter layout ring_oscillator
+
+                   Cell Errors    Real Errors   Cell Placements     Environments
+                             1              1                 1                1
+--------------------------------------------------------------------------------
+Env.  Env. Placements            X1           Y1          X2           Y2
+
+  1        1                 -5.000       -5.000      -3.000       -2.000
+
+Shape               Environments Status & Error Marker 
+
+          1           X1         Y1         X2         Y2
+
+   1      X       -5.000     -5.000     -3.000     -2.000
+
+================================================================================
+Rule No. 8 : wel_StampErrorFloat
+
+Real Error Count : 1; Flat Error Count : 1
+================================================================================
+
+--------------------------------------------------------------------------------
+Cell Name : inverter layout ring_oscillator
+
+                   Cell Errors    Real Errors   Cell Placements     Environments
+                             1              1                 1                1
+--------------------------------------------------------------------------------
+Env.  Env. Placements            X1           Y1          X2           Y2
+
+  1        1                 -5.000       -2.000      -3.000        2.000
+
+Shape               Environments Status & Error Marker 
+
+          1           X1         Y1         X2         Y2
+
+   1      X       -5.000     -2.000     -3.000      2.000
+
+================================================================================
+Rule No. 14 : PSUB_P_StampErrorFloat
+
+Real Error Count : 1; Flat Error Count : 1
+================================================================================
+
+--------------------------------------------------------------------------------
+Cell Name : inverter layout ring_oscillator
+
+                   Cell Errors    Real Errors   Cell Placements     Environments
+                             1              1                 1                1
+--------------------------------------------------------------------------------
+Env.  Env. Placements            X1           Y1          X2           Y2
+
+  1        1                 -5.000       -5.000      -3.000       -2.000
+
+Shape               Environments Status & Error Marker 
+
+          1           X1         Y1         X2         Y2
+
+   1      X       -5.000     -5.000     -3.000     -2.000
+

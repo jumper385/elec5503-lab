@@ -1,0 +1,7 @@
+; Assura generated file -- DO NOT EDIT --
+; Do NOT rely on the content of this file, it may change.
+;
+2 bind match unmatched shorts opens
+1 0 ((L "VDD")((1 "p_12_hsl130e" ( "D" "S")))(S "VDD")((1 "P_12_HSL130E" ( "D" "S"))(1 "P_12_HSL130E" ( "B"))))
+1 0 ((L "GND")((1 "n_12_hsl130e" ( "D" "S")))(S "GND")((1 "N_12_HSL130E" ( "D" "S"))(1 "N_12_HSL130E" ( "B"))))
+1 2 ((L "avC5")(L "avC6"))

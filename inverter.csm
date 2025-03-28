@@ -1,5 +1,6 @@
 Schematic                         | Layout                         | Status
 -------------------------------------------------------------------------------
-inverter schematic ring_oscillator| inverter layout ring_oscillator| matched
+inverter schematic ring_oscillator| inverter layout ring_oscillator| errors  *
 
-Schematic and Layout Match
+Mismatch between Schematic and Layout
+   1 cell with errors

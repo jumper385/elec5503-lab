@@ -1,4 +1,5 @@
 umc13mmrf N_12_HSL130E layout 276
-umc13mmrf N_12_HSL130E layout 276
 umc13mmrf P_12_HSL130E layout 274
-ring_oscillator nand layout 8782
+umc13mmrf P_12_HSL130E layout 274
+ring_oscillator tmplt-reg layout 188
+ring_oscillator nand layout 10593

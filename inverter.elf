@@ -1,6 +1,3 @@
-nwCon
-pwCon_all
-pwCon
 psdcon
 nsdcon
 polycon
@@ -19,10 +16,7 @@ PSUB_P
 PSUB
 ME1
 nsd
-ntap
 psd
-ptap_all
-ptap
 ply
 wel
 m1_textt
